@@ -1,0 +1,50 @@
+{
+  "shapes": [
+    {
+      "type": "rect",
+      "name": "path_address_bar",
+      "x": 20,
+      "y": 29,
+      "w": 262,
+      "h": 25,
+      "r": 6
+    },
+    {
+      "type": "rect",
+      "name": "path_mini_bar",
+      "x": 92,
+      "y": 73,
+      "w": 112,
+      "h": 25,
+      "r": 6
+    },
+    {
+      "type": "circle",
+      "name": "path_button1",
+      "x": 37,
+      "y": 139,
+      "r": 27
+    },
+    {
+      "type": "circle",
+      "name": "path_button2",
+      "x": 106,
+      "y": 139,
+      "r": 27
+    },
+    {
+      "type": "circle",
+      "name": "path_button3",
+      "x": 183,
+      "y": 139,
+      "r": 27
+    },
+    {
+      "type": "circle",
+      "name": "path_button4",
+      "x": 252,
+      "y": 139,
+      "r": 27
+    }
+  ]
+}
